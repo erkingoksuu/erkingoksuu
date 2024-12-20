@@ -1,4 +1,5 @@
 ## 💫 About Me:
+I'm Erkin Göksu
 🔭 I’m currently working on "Portfolio Web App"
 <br>🌱 I’m currently learning "React"
 <br>💬 Ask me about "Frontend"
